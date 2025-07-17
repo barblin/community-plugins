@@ -91,7 +91,7 @@ export const Rating = ({
 
       case '5.0':
         return {
-          name: 'E',
+          name: 'F',
           className: classes.ratingE,
         };
 
